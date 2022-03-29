@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGameAPI", "WordGameAPI\WordGameAPI.csproj", "{5826398D-4D07-44EC-BDB8-6354D5A82B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGameTest", "WordGameTest\WordGameTest.csproj", "{510E5758-BBCD-45BE-ACA9-6EA0942D2944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5826398D-4D07-44EC-BDB8-6354D5A82B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5826398D-4D07-44EC-BDB8-6354D5A82B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5826398D-4D07-44EC-BDB8-6354D5A82B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5826398D-4D07-44EC-BDB8-6354D5A82B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510E5758-BBCD-45BE-ACA9-6EA0942D2944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510E5758-BBCD-45BE-ACA9-6EA0942D2944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510E5758-BBCD-45BE-ACA9-6EA0942D2944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510E5758-BBCD-45BE-ACA9-6EA0942D2944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2273EE1-8362-4AAE-B59D-F6457678D0B9}
+	EndGlobalSection
+EndGlobal
